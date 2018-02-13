@@ -48,9 +48,6 @@
                         //window.location = getRootPath() + "/handler/SavePrintResultHandler.ashx?resultUrl=" + evt.url;
                     });  
                 }  
-
-
-
         });
     </script>
    
